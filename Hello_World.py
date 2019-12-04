@@ -1,4 +1,4 @@
 def hello():
     return "Hello!"
 
-#This is a test
+#Full auto
